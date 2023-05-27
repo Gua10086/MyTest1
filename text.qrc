@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/mytxt">
+        <file>text1.txt</file>
+    </qresource>
+</RCC>
